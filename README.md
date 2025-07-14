@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [CodeDSA](https://github.com/Babita1947/codedsa)  
 - 🌱 I’m currently learning **Backend**  
-- 💬 Ask me about **MongoDB, Express, ReactJs, NodeJs**  
+- 💬 Ask me about **DSA(C++), MongoDB, Express, ReactJs, NodeJs**  
 - 📫 How to reach me **babitakumari.ky3007@gmail.com**
 
    </td>
