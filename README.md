@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Babita Kumari</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=babita1947&label=Profile%20views&color=0e75b6&style=flat" alt="babita1947" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=babitakry&label=Profile%20views&color=0e75b6&style=flat" alt="babitakry" />
+</p>
 
 <div align="center">
-
 <table>
   <tr>
     <td>
 
-- 🔭 I’m currently working on [CodeDSA](https://github.com/Babita1947/codedsa)  
+- 🔭 I’m currently working on [CodeDSA](https://github.com/babitakry/codedsa)  
 - 🌱 I’m currently learning **Backend**  
 - 💬 Ask me about **DSA(C++), MongoDB, Express, ReactJs, NodeJs**  
 - 📫 How to reach me **babitakumari.ky3007@gmail.com**
@@ -20,9 +21,7 @@
    </td>
   </tr>
 </table>
-
 </div>
-
 
 ---
 
@@ -82,23 +81,19 @@
   </tr>
 </table>
 
-
-
-
 ---
 
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=babita1947&show_icons=true&locale=en&layout=compact" alt="babita1947" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=babitakry&show_icons=true&locale=en&layout=compact" alt="babitakry" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=babita1947&show_icons=true&locale=en" alt="babita1947" />
+      <img src="https://github-readme-stats.vercel.app/api?username=babitakry&show_icons=true&locale=en" alt="babitakry" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=babita1947" alt="babita1947" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=babitakry" alt="babitakry" />
 </p>
-
