@@ -33,50 +33,66 @@
 
 ---
 
-<h3 align="center">🧰 Languages & Tools:</h3>
+<h3 align="center">Tech Stack</h3>
 
 <table align="center">
   <tr>
+  <td align="center"><strong>💻 Programming Languages</strong></td>
     <td align="center">
-      <h4>🚀 Front-End</h4>
-      <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="30"/>
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30"/>
-      </p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
     </td>
+  </tr>
+
+  <tr>
+    <td align="center"><strong>🌐 Frontend</strong></td>
     <td align="center">
-      <h4>🛠️ Back-End</h4>
-      <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-      </p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
     </td>
   </tr>
   <tr>
+    <td align="center"><strong>🧰 Backend</strong></td>
     <td align="center">
-      <h4>⚙️ DevOps & Tools</h4>
-      <p>
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30"/>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30"/>
-      </p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="40"/>
     </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>☁️ Cloud & DevOps</strong></td>
     <td align="center">
-      <h4>🌐 Others</h4>
-      <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30"/>
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="30"/>
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="30"/>
-      </p>
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🖥️ Operating Systems</strong></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🗃️ Databases</strong></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🔧 Tools & Utilities</strong></td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
     </td>
   </tr>
 </table>
